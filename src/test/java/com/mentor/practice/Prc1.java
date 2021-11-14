@@ -5,5 +5,7 @@ public class Prc1 {
         System.out.println("what a wonderful world");
         //new comment
 
+        System.out.println("args = " + args);
+
     }
 }
